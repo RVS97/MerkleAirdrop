@@ -113,13 +113,6 @@ foundryup
 forge test
 ```
 
-for for zkSync
-
-```bash
-# This will run `foundryup-zksync && forge test --zksync && foundryup`
-make zktest
-```
-
 ### Test Coverage
 
 ```bash
